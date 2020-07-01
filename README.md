@@ -24,5 +24,5 @@ npm install
 Run application
 
 ```
-DEBUG=rest-api-app:* npm start
+DEBUG=st1-rest-api-app:* npm start
 ```
